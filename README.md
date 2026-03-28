@@ -106,9 +106,11 @@ me = Developer()
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lufeloza&theme=tokyonight-duo&hide_border=true&background=0A0A0F&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=b0b0d6&dates=8888a0)](https://github.com/lufeloza)
 
-<br/>
+</div>
 
 ### 🏆 Trofeos GitHub
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lufeloza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/lufeloza)
 
@@ -117,8 +119,6 @@ me = Developer()
 ---
 
 ## 🎯 Mis Servicios Freelance
-
-<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -130,8 +130,6 @@ me = Developer()
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 ---
 
