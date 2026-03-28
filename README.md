@@ -18,28 +18,35 @@
 
 ## 👨‍💻 Sobre mí
 
-```python
-class Developer:
-    def __init__(self):
-        self.name       = "Luis F. Lopez Z."
-        self.role       = "Freelance Full-Stack Developer"
-        self.location   = "LATAM (Disponible remoto)"
-        self.languages  = ["Python", "JavaScript", "SQL"]
-        self.passion    = "Transformar datos en decisiones y problemas en codigo elegante"
+<div align="center">
 
-    def current_focus(self):
-        return [
-            "Automatizacion de procesos con Python",
-            "Desarrollo web moderno (FastAPI + React)",
-            "Ciencia de datos & Machine Learning",
-            "Integracion de IA en flujos de negocio",
-        ]
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    def philosophy(self):
-        return "No solo escribo codigo: construyo herramientas que transforman la forma en que trabajas."
+**👤 Quién soy**
+- 🏷️ **Nombre:** Luis F. Lopez Z.
+- 💼 **Rol:** Freelance Full-Stack Developer
+- 📍 **Ubicación:** LATAM (Disponible remoto)
+- 💬 **Lenguajes:** Python · JavaScript · SQL
+- ❤️ **Pasión:** Transformar datos en decisiones y problemas en código elegante
 
-me = Developer()
-```
+</td>
+<td width="50%" valign="top">
+
+**🎯 Enfoque actual**
+- 🔧 Automatización de procesos con Python
+- 🌐 Desarrollo web moderno (FastAPI + React)
+- 📊 Ciencia de datos & Machine Learning
+- 🤖 Integración de IA en flujos de negocio
+
+</td>
+</tr>
+</table>
+
+> 💡 *"No solo escribo código: construyo herramientas que transforman la forma en que trabajas."*
+
+</div>
 
 ---
 
@@ -124,29 +131,31 @@ me = Developer()
 
 ## 🎯 Mis Servicios Freelance
 
-```
-+------------------------------------------------------------------+
-|                                                                  |
-|   Automatizacion Python        Desarrollo Web Full-Stack         |
-|   Ciencia de Datos             APIs RESTful con FastAPI          |
-|   Web Scraping y ETL           Deploy con Docker                 |
-|   Integracion con IA           Dashboards interactivos           |
-|                                                                  |
-+------------------------------------------------------------------+
-```
+<div align="center">
+
+| 🔧 Servicio | 🔧 Servicio |
+|:---:|:---:|
+| ⚙️ Automatización Python | 🌐 Desarrollo Web Full-Stack |
+| 📊 Ciencia de Datos | ⚡ APIs RESTful con FastAPI |
+| 🕷️ Web Scraping y ETL | 🐳 Deploy con Docker |
+| 🤖 Integración con IA | 📈 Dashboards interactivos |
+
+</div>
 
 ---
 
 ## 🔥 Actualmente trabajando en
 
-```python
-current_projects = {
-    "En desarrollo" : "Portfolio web profesional (HTML + CSS + JS)",
-    "En proceso"    : "Dashboard EDA para analisis epidemiologico v2.0",
-    "Explorando"    : "Agentes con IA para automatizacion de negocios",
-    "Aprendiendo"   : "FastAPI avanzado + PostgreSQL en produccion",
-}
-```
+<div align="center">
+
+| Estado | Proyecto |
+|:---:|---|
+| 🛠️ **En desarrollo** | Portfolio web profesional (HTML + CSS + JS) |
+| ⚙️ **En proceso** | Dashboard EDA para análisis epidemiológico v2.0 |
+| 🔍 **Explorando** | Agentes con IA para automatización de negocios |
+| 📚 **Aprendiendo** | FastAPI avanzado + PostgreSQL en producción |
+
+</div>
 
 ---
 
@@ -154,7 +163,7 @@ current_projects = {
 
 <div align="center">
 
-**Tienes un problema que resolver? Trabajemos juntos.**
+**¿Tienes un problema que resolver? Trabajemos juntos.**
 
 [![Email](https://img.shields.io/badge/Email-lufeloza@gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:lufeloza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/luis-zarate-3984b193)
@@ -162,7 +171,7 @@ current_projects = {
 
 <br/>
 
-*"Transformo ideas en soluciones tecnologicas reales."*
+*"Transformo ideas en soluciones tecnológicas reales."*
 
 *— Luis F. Lopez Z.*
 
